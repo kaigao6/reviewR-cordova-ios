@@ -21,4 +21,4 @@ The Add New page will let the user enter a title, a text review, a star rating (
 
 Make the button disappear and be replaced with the image after the picture is taken.
 
-Using the cordova-plugin-camera plugin to accomplish this.
+Using the cordova-plugin-camera plugin to accomplish this
